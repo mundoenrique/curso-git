@@ -2,6 +2,6 @@
 
 1. Acabar con el plan de Lex Luthor
 2. Crear la liga de la justicia
-3. Buscar nuevos miembros que sean super heroes
+3. Buscar nuevos miembros para la liga
 4. Buscar comida para ellos
 5. Hacer reconocimiento del terreno
