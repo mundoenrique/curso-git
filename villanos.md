@@ -1,8 +1,8 @@
 # Villanos
 
-1. Lext Luthor
-2. Jocker
-3. Flas REverso
+1. Lex Luthor
+2. Joker
+3. Flash Reverso
 4. Doomsday
 5. Loki
 
