@@ -4,5 +4,6 @@
 - Batman
 - Aquaman
 - Mujer Maravilla
-- Listerna verde
+- Linterna Verde
 - Robin
+- Volcán Negro
