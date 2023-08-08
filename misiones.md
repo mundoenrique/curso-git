@@ -6,3 +6,4 @@
 4. Buscar comida para ellos
 5. Hacer reconocimiento del terreno
 6. Investigar los trabajos del Joker
+7. Investigar los planes de Deadshot
