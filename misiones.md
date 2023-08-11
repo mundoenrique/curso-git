@@ -7,3 +7,4 @@
 5. Hacer reconocimiento del terreno
 6. Investigar los trabajos del Joker
 7. Investigar los planes de Deadshot
+8. Planear defensa
